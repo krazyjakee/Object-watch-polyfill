@@ -1,0 +1,16 @@
+{
+  "name": "Object-watch-polyfill",
+  "version": "1.0",
+  "authors": [
+    "Eli Grey"
+  ],
+  "description": "object.watch polyfill in ES5",
+  "main": "object.watch-polyfill.js",
+  "keywords": [
+    "polyfill",
+    "es5",
+    "watch"
+  ],
+  "license": "MIT",
+  "homepage": "http://eligrey.com"
+}
